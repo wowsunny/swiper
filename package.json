@@ -1,6 +1,6 @@
 {
-  "name": "swiper-src",
-  "version": "11.0.7",
+  "name": "@ks-lfe/swiper-for-localfe",
+  "version": "1.0.1",
   "description": "Most modern mobile touch slider and framework with hardware accelerated transitions",
   "type": "module",
   "scripts": {
